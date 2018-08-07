@@ -15,7 +15,7 @@ namespace HelloWorld
         }
         public static string createMessage()
         {
-            return "Hello World Diana Maria Villamil Duarte";
+            return "Hello World Diana";
         }
     }
 }
