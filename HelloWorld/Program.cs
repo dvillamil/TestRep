@@ -11,11 +11,11 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine(createMessage());
-            Console.WriteLine("Hola mundo es un nuevo dia para disfrutar");            
+            Console.WriteLine("Hello Diany Maria");            
         }
         public static string createMessage()
         {
-            return "Hello World Diana Maria";
+            return "Hello World Diana";
         }
     }
 }
